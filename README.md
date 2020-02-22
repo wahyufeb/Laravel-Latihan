@@ -7,12 +7,22 @@ Laravel adalah sebuah framework PHP yang menurut saya bagus dan cocok untuk pemu
 Pada repository ini saya berlatih untuk membuat berbagai fitur, dari yang sederhana seperti CRUD,
 berikut adalah daftar dari isi repository
 
--   **[Vehikl]**
--   **[Tighten Co.](https://tighten.co)**
--   **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
--   **[64 Robots](https://64robots.com)**
--   **[Cubet Techno Labs](https://cubettech.com)**
--   **[Cyber-Duck](https://cyber-duck.co.uk)**
--   **[British Software Development](https://www.britishsoftware.co)**
--   **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
--   **[DevSquad](https://devsquad.com)**
+-   **Fitur Artikel**
+    Kolom pada tabel article : id, title, slug & contents
+    -   Create Artikel
+    -   Edit Artikel 
+    -   Update Artikel
+   
+-   **Fitur Course**
+    Kolom pada table courses : id, title, banner, duration, price
+    -   Create Course
+
+
+## Cara Install
+1. Buat database kosong terlebih dahulu.
+2. Ganti DB_DATABASE, DB_USERNAME, DB_PASSWORD sesuai dengan database, username dan password anda, pada file .env, jika tidak ada file .env maka buat file .env dan copy isi dari .env.example.
+3. Jalankan php artisan migrate, cek pada database, apakah table sudah terimpor atau belum.
+4. Jalankan php artisan serve, dan liat hasilnya pada http://localhost:8000.
+5. Terimakasih telah menkunjungi repository ini, semoga bermanfaat.
+
+##TETAP POSITIF, TETAP BERKARYA UNTUK MERAIH CITA CITA
