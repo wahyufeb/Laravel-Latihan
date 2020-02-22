@@ -1,4 +1,9 @@
 ## Latihan Laravel 6
+<p align="center">
+    <img src="https://www.bekenweb.com/blog/wp-content/uploads/2019/11/Laravel-6-1280x720.png" width="400"/>
+</p>
+
+Laravel Documentation : <a href="https://laravel.com/" target="_blank">laravel</a>
 
 Laravel adalah sebuah framework PHP yang menurut saya bagus dan cocok untuk pemula yang ingin belajar pemrograman web, dan menurut saya cocok untuk diterapkan ke proyel yang besar.
 
@@ -25,4 +30,4 @@ berikut adalah daftar dari isi repository
 4. Jalankan php artisan serve, dan liat hasilnya pada http://localhost:8000.
 5. Terimakasih telah menkunjungi repository ini, semoga bermanfaat.
 
-##TETAP POSITIF, TETAP BERKARYA UNTUK MERAIH CITA CITA
+## TETAP POSITIF, TETAP BERKARYA UNTUK MERAIH CITA CITA
